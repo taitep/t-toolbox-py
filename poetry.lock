@@ -2,16 +2,16 @@
 
 [[package]]
 name = "consumable"
-version = "1.1.1"
+version = "1.1.2"
 description = "Bool that resets on use."
 optional = false
 python-versions = ">=3.8,<4.0"
 files = [
-    {file = "consumable-1.1.1-py3-none-any.whl", hash = "sha256:824e4e891abf96c6fe180b0ea2e0d2aa3c3e3851161ee7871bd548be6426826a"},
-    {file = "consumable-1.1.1.tar.gz", hash = "sha256:0987d66aaa7e9fd6b4fbe6045d792a43a87ad9c98000e7d8e6caeba5f96e010c"},
+    {file = "consumable-1.1.2-py3-none-any.whl", hash = "sha256:e316a62990f5047916ac97fceed4ce0722bc1dd970b4350d5f51fd3b3eafe18d"},
+    {file = "consumable-1.1.2.tar.gz", hash = "sha256:4a607778daa897429ce41b842fcc8d42b02618bb9745da08be5ca610639c0337"},
 ]
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "76bc95e81afc1cd6eef3d5dce37910283416c390f738bb69c73a21a3b3e65019"
+content-hash = "f482d9805731c3e120cb341120531af061d877d1ebbf58644f56eb7587bd38ad"
