@@ -10,7 +10,7 @@ Freeform is a class that can turn any set of arguments into fields.
 
 ```py
 # Import the Freeform class
-from freeform import Freeform
+from t_toolbox import Freeform
 
 # Create a Freeform instance with class fields
 my_data = Freeform(name="John", age=30, city="New York")
