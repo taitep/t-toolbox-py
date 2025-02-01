@@ -2,7 +2,7 @@
 name = "t-toolbox"
 version = "0.1.1"
 description = ""
-authors = ["taitep <arvid@h.se>"]
+authors = ["taitep <taitep@taitep.se>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
